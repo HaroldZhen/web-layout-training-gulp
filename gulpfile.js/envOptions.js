@@ -3,6 +3,7 @@ const distPath = './dist';
 const nodePath = './node_modules';
 
 let envOptions = {
+   ghPageCustomDomain: 'web-layout-training-gulp.haroldzhenidv.me',
   string: 'env',
   default: {
     env: 'dev',
